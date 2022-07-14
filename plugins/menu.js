@@ -53,7 +53,7 @@ Hai, %ucapan %name! 👋
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*Made by ♡*
-*Wolves_Botz* | %version
+*Fahzz* | %version
 ${'```%npmdesc```'}
 `,
 }
